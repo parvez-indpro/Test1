@@ -30,6 +30,7 @@ const AppWrapper = styled.div`
 
 export default function App() {
   return (
+    <p></p>
     <AppWrapper>
       <Helmet
         titleTemplate="%s - React.js Boilerplate"
